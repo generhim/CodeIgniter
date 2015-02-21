@@ -113,7 +113,7 @@ switch (ENVIRONMENT)
  *
  * NO TRAILING SLASH!
  */
-	$application_folder = '../framework/applications/website';
+	$application_folder = '../framework/applications/scraper';
 
 /*
  *---------------------------------------------------------------
